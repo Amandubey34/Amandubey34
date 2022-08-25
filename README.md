@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amandubey34
-- 👀 I’m interested in android development, cloud computing, blockchain
+- 👀 I’m interested in Data analysis, android development, cloud computing, blockchain
 - 🌱 I’m currently learning hybrid app development
 - 💞️ I’m looking for Software development engineer job
 - 📫 How to reach me https://www.linkedin.com/in/aman-dubey-b670701a7
