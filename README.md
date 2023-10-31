@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amandubey34
 - 👀 I’m interested in Data analysis, android development, cloud computing, blockchain
 - 🌱 I’m currently learning hybrid app development
-- 💞️ I’m looking for Data Analyst or Software development engineer job
+- 🙋 I’m looking for Data Analyst or Software development engineer job
 - 📫 How to reach me https://www.linkedin.com/in/amandubey34/
 
 <!---
